@@ -9,11 +9,12 @@ class camerapage extends StatelessWidget {
     return Scaffold(
       body: Center(
         child: Container(
-          height: 10.h,
-          width: 10.w,
+          height: 1000,
+          width: 1000,
           //color: Colors.black,
           child: Icon(
-            Icons.camera_enhance,
+            Icons.camera_alt_outlined,
+            size: 300,
           ),
         ),
       ),
