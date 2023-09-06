@@ -22,11 +22,11 @@ class _statuspageState extends State<statuspage> {
                   padding: EdgeInsets.fromLTRB(10, 0, 0, 0),
                 ),
                 ClipRRect(
-                  borderRadius: BorderRadius.circular(120),
+                  borderRadius: BorderRadius.circular(110),
                   child: Image.asset(
                     'assets/mystatus.jpg',
-                    width: 60,
-                    height: 60,
+                    width: 70,
+                    height: 70,
                   ),
                 ),
                 SizedBox(width: 10), // Biraz boşluk ekleyebilirsiniz

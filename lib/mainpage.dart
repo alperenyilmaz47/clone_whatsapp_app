@@ -51,8 +51,9 @@ class mainpage extends StatelessWidget {
         ),
         //--------------------------------------------BODY
         body: TabBarView(
-          children: const <Widget>[
+          children: <Widget>[
             camerapage(),
+            
             ChatsPage(),
             statuspage(),
             callspage(),
