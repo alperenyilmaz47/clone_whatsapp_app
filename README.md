@@ -1,16 +1,10 @@
 # clone_whatsapp_app
 
-A new Flutter project.
+STATUS SCREEN
+![status](https://github.com/alperenyilmaz47/clone_whatsapp_app/assets/112612143/79a16050-1fc5-4a88-853a-13006212e5d5)
 
-## Getting Started
+CHATS SCREEN
+![chats](https://github.com/alperenyilmaz47/clone_whatsapp_app/assets/112612143/04303be5-0e8c-453e-9e08-b62a5d680d64)
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+CALLS SCREEN
+![calls](https://github.com/alperenyilmaz47/clone_whatsapp_app/assets/112612143/822d4181-1f08-49b6-bf1e-8eee1dcf58a7)
